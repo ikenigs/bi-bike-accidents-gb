@@ -1,6 +1,4 @@
 # Bicycle Accidents in Great Britain (1979–2018)
-### ALY 6110 – Data Management & Big Data | Assignment 1
-
 ---
 
 ## Live Dashboard
